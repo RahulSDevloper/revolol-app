@@ -12,20 +12,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/revolol-app/stargazers">
-    <img src="https://img.shields.io/github/stars/yourusername/revolol-app?style=for-the-badge&logo=github&label=Star%20Us&color=yellow" alt="Stars Badge" />
+  <a href="https://github.com/RahulSDevloper/revolol-app/stargazers">
+    <img src="https://img.shields.io/github/stars/RahulSDevloper/revolol-app?style=for-the-badge&logo=github&label=Star%20Us&color=yellow" alt="Stars Badge" />
   </a>
-  <a href="https://github.com/yourusername/revolol-app/network/members">
-    <img src="https://img.shields.io/github/forks/yourusername/revolol-app?style=for-the-badge&logo=github&label=Fork&color=orange" alt="Forks Badge" />
+  <a href="https://github.com/RahulSDevloper/revolol-app/network/members">
+    <img src="https://img.shields.io/github/forks/RahulSDevloper/revolol-app?style=for-the-badge&logo=github&label=Fork&color=orange" alt="Forks Badge" />
   </a>
-  <a href="https://github.com/yourusername/revolol-app/actions">
-    <img src="https://img.shields.io/github/workflow/status/yourusername/revolol-app/CI?style=for-the-badge&logo=github&label=CI%20Status&color=brightgreen" alt="CI Badge" />
+  <a href="https://github.com/RahulSDevloper/revolol-app/actions">
+    <img src="https://img.shields.io/github/workflow/status/RahulSDevloper/revolol-app/CI?style=for-the-badge&logo=github&label=CI%20Status&color=brightgreen" alt="CI Badge" />
   </a>
-  <a href="https://github.com/yourusername/revolol-app/issues">
-    <img src="https://img.shields.io/github/issues/yourusername/revolol-app?style=for-the-badge&logo=github&label=Issues&color=lightblue" alt="Issues Badge" />
+  <a href="https://github.com/RahulSDevloper/revolol-app/issues">
+    <img src="https://img.shields.io/github/issues/RahulSDevloper/revolol-app?style=for-the-badge&logo=github&label=Issues&color=lightblue" alt="Issues Badge" />
   </a>
-  <a href="https://github.com/yourusername/revolol-app/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/yourusername/revolol-app?style=for-the-badge&label=License&color=brightgreen" alt="License Badge" />
+  <a href="https://github.com/RahulSDevloper/revolol-app/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/RahulSDevloper/revolol-app?style=for-the-badge&label=License&color=brightgreen" alt="License Badge" />
   </a>
 </p>
 
@@ -217,38 +217,15 @@ flowchart LR
 ## 🤝 Community & Contribution
 
 <div align="center">
-  <a href="https://github.com/yourusername/revolol-app/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/yourusername/revolol-app?style=flat-square" alt="Contributors" />
+  <a href="https://github.com/RahulSDevloper/revolol-app/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/RahulSDevloper/revolol-app?style=flat-square" alt="Contributors" />
   </a>
-  <a href="https://github.com/yourusername/revolol-app/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22">
-    <img src="https://img.shields.io/github/issues-raw/yourusername/revolol-app/good%20first%20issue?style=flat-square&color=blue" alt="Good First Issue" />
+  <a href="https://github.com/RahulSDevloper/revolol-app/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22">
+    <img src="https://img.shields.io/github/issues-raw/RahulSDevloper/revolol-app/good%20first%20issue?style=flat-square&color=blue" alt="Good First Issue" />
   </a>
 </div>
 
 Contributions welcome! Check our issue templates & contribution guidelines.
-
----
-
-## 📝 Getting Started
-
-<details>
-<summary>Setup Instructions</summary>
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/revolol-app.git
-cd revolol-app
-
-# Install dependencies
-flutter pub get
-
-# Configure Firebase (copy env.sample.dart to env.dart and fill values)
-
-# Run the app
-flutter run
-```
-
-</details>
 
 ---
 
@@ -284,6 +261,6 @@ Check the `/docs` folder for mockups and Figma links.
 
 ## 📜 License
 
-MIT License © 2025 yourusername
+MIT License © 2025 RahulSDevloper
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
